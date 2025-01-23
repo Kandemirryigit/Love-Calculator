@@ -9,7 +9,7 @@
 https://github.com/user-attachments/assets/eaf93d2f-fb49-4b84-b040-093b3895db79
 
 
-Final project looks like this.The main idea of the project is find TRUE and LOVE words's letters inside your and your girlfriend's name.And Make an operation to give you a love score.
+Final project looks like this.The main idea of the project is find TRUE and LOVE words' letters inside your and your girlfriend's name.And Make an operation to give you a love score.
 
 
 
